@@ -5,8 +5,6 @@ Often there are threads posted around the internet about how to answer the top 1
 I'm reviewing material I have in my bookmark manager and listing it here.
 
 ### Examples of blog posts about Javascript interview questions
-+ [Ten questions I’ve been asked, most more than once, over six technical JavaScript / Front-end Engineer job interviews.](https://www.reddit.com/r/javascript/comments/3rb88w/ten_questions_ive_been_asked_most_more_than_once)
-+ [Coding Interview Preparation in JavaScript](https://news.ycombinator.com/item?id=11204128)
 + [21 Essential JavaScript Interview Questions](https://www.codementor.io/javascript/tutorial/21-essential-javascript-tech-interview-practice-questions-answers)
 + [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95#.1eaqwtkhc)
 + [Javascript Interview Questions](http://www.tutorialspoint.com/javascript/javascript_interview_questions.htm)
@@ -34,7 +32,7 @@ Mattias Petter Johansson puts the **fun** in functional programming. This is als
 
 ### What is the event loop? The asynchronous nature of JavaScript
 + [Philip Roberts: What the heck is the event loop anyway? | JSConf EU 2014](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
-+ [Promises in Detail](http://dailyjs.com/2014/02/20/promises-in-detail/)
++ [Promises in Detail](http://www.mattgreer.org/articles/promises-in-wicked-detail/)
 + [Promises - Part 8 of Functional Programming in JavaScript](https://www.youtube.com/watch?v=2d7s3spWAzo)
 
 ### Javascript. The core. Scope chain, prototype chain, closure, constructor, and this.
